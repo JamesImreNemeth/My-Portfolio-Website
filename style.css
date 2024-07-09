@@ -113,6 +113,7 @@ p, h3{
 
 a, .btn {
     transition: all 500ms ease-in-out;
+    z-index: 2;
 }
 
 /* Desktop Nav Bar */
