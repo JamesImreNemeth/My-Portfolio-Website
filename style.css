@@ -258,8 +258,8 @@ a:hover{
 /* Content Sections */
 
 section{
-    padding-top: 3vh;
-    height: 88vh;
+    padding-top: 4vh;
+    height: 96vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
@@ -274,7 +274,7 @@ section{
 #hero {
     justify-content: center;
     gap: 5rem;
-    height: 70vh;
+    height: 80vh;
 }
 
 .section__pic-controller {
@@ -573,7 +573,7 @@ footer p {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   #contact,
   footer {
     height: 40vh;
